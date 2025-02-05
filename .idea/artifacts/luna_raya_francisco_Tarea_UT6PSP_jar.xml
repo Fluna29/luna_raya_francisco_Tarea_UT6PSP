@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="luna_raya_francisco_Tarea_UT6PSP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/luna_raya_francisco_Tarea_UT6PSP_jar</output-path>
+    <root id="archive" name="luna_raya_francisco_Tarea_UT6PSP.jar">
+      <element id="module-output" name="luna_raya_francisco_Tarea_UT6PSP" />
+    </root>
+  </artifact>
+</component>
